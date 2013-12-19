@@ -5,11 +5,4 @@ Use $('.trigger').makeToggle('.ToggleElem');
 
 */
 
-(function($){
-	$.fn.makeToggle=function(tgElm){
-		(this).click(function(){
-			$(tgElm).slideToggle();
-		});
-	}
-	return this;
-})(jQuery);
+(function(a){a.fn.makeToggle=function(b){(this).click(function(){a(b).slideToggle()})};return this})(jQuery);
