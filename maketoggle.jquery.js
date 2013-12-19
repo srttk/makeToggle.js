@@ -11,4 +11,5 @@ Use $('.trigger').makeToggle('.ToggleElem');
 			$(tgElm).slideToggle();
 		});
 	}
+	return this;
 })(jQuery);
