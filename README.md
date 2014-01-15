@@ -1,7 +1,7 @@
 makeToggle.js
 =============
 
-A Simple content toggle plugin
+A Simple content Collapse toggle plugin
 
 ##Usage
 >Javascript
