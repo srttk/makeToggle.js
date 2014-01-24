@@ -13,6 +13,7 @@ $(function(){
 
 <label class="triggerElement">Toggle button<label>
 
+
 <p class="TargetElement">
 orem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
